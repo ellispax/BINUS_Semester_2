@@ -1,3 +1,4 @@
+# Remove commnets on print statements to get results
 import numpy as np
 A = np.zeros((3,1))
 B = np.ones((3,1))
