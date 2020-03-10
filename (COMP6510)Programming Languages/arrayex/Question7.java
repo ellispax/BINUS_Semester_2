@@ -18,14 +18,18 @@ public class Question7 {
 
 
         System.out.println("First half has: ");
-        for (int i = 0; i< one.length; i++){
+        System.out.println(Arrays.toString(one));
+        
+       /* for (int i = 0; i< one.length; i++){
             System.out.println(one[i]);
-        }
+        }*/
 
         System.out.println("Second half has: ");
+        System.out.println(Arrays.toString(two));
+        /*
         for (int i = 0; i< two.length; i++){
             System.out.println(two[i]);
-        }
+        }*/
 
 
     }
