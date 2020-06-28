@@ -8,3 +8,5 @@ There are two Admin accounts already: (1. username: pax password: pax, 2. userna
 
 When an employee is added their username and password are generated and saved in the users table 
 when an employee login the can apply for a leave, check their salary bill records, change password & check leave approval status
+
+To run the File use Application.java in src/application folder.
